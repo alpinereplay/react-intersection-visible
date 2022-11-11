@@ -23,7 +23,6 @@
     "watch": "npm-scripts-watcher",
     "example": "webpack-dev-server"
   },
-  "main": "./lib/index.js",
   "watch": {
     "src/**/*.js": [
       "compile"
