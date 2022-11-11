@@ -6,6 +6,7 @@
     "type": "git",
     "url": "https://github.com/AvraamMavridis/react-intersection-visible"
   },
+  "main": "lib/index.js",
   "author": "Avraam Mavridis <avr.mav@gmail.com>",
   "description": "react intersection visible",
   "scripts": {
